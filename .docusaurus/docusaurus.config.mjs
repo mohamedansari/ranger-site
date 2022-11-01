@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Apache Ranger",
+  "tagline": "Apache Ranger is Cool",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/ranger-source/",
   "onBrokenLinks": "throw",
@@ -42,10 +42,10 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Apache Ranger",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "Ranger Logo",
+        "src": "img/logo.png"
       },
       "items": [
         {
